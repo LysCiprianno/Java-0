@@ -1,7 +1,7 @@
 ## Lógica de Programação Básica em Java
 
  1 - Baby Steps
-**Pergunta:**  
+Pergunta:  
 Escreva um programa em Java e crie uma variável chamada "Planeta" e atribua-a um valor "Plutão". Exiba o valor para o usuário.
 
 ```java
