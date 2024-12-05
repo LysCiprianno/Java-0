@@ -13,7 +13,7 @@ public class Main {
 }
 
 ## 2 - Hello Clarice
-**Pergunta:** 
+Pergunta: 
 Escreva um programa em Java em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
 
 ```java
