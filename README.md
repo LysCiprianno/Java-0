@@ -1,6 +1,6 @@
 ## Lógica de Programação Básica em Java
 
-### 1 - Baby Steps
+ 1 - Baby Steps
 **Pergunta:**  
 Escreva um programa em Java e crie uma variável chamada "Planeta" e atribua-a um valor "Plutão". Exiba o valor para o usuário.
 
@@ -12,7 +12,9 @@ public class Main {
     }
 }
 
-## 2 - Hello Clarice
+
+
+2 - Hello Clarice
 Pergunta: 
 Escreva um programa em Java em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
 
@@ -30,7 +32,9 @@ public class Main {
     }
 }
 
-### 3 - A Bit of Information
+
+
+3 - A Bit of Information
 Pergunta:
 Escreva um programa em Java em que o usuário informe o seu nome e em seguida o programa perguntará a idade do usuário. Agora o programa deve exibir a mensagem "Olá, [NomeDoUsuario], sua idade é [idade]".
 
@@ -51,7 +55,9 @@ public class Main {
     }
 }
 
-### 4 - 1, 2 e 3
+
+
+4 - 1, 2 e 3
 Pergunta:
 Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou neutro.
 
@@ -75,7 +81,9 @@ public class Main {
     }
 }
 
-### 5 - Qual o maior?
+
+
+5 - Qual o maior?
 Pergunta:
 Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
 
@@ -103,7 +111,9 @@ public class Main {
     }
 }
 
-### 5.1 - Qual o maior? (4 vezes pior)
+
+
+5.1 - Qual o maior? (4 vezes pior)
 Pergunta:
 Faça um programa para ler 4 valores (considere que não serão informados valores iguais) e escrever o maior deles.
 
@@ -135,7 +145,10 @@ public class Main {
     }
 }
 
-### 6 - Qual o quê?
+
+
+
+6 - Qual o quê?
 Pergunta:
 Faça um programa que leia 3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
 
@@ -162,7 +175,9 @@ public class Main {
     }
 }
 
-### 6.1 - 5 vezes?
+
+
+6.1 - 5 vezes?
 Pergunta:
 Faça um programa que leia 5 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
 
@@ -186,7 +201,9 @@ public class Main {
     }
 }
 
-### 7 - Enquanto isso
+
+
+7 - Enquanto isso
 Pergunta:
 Faça um programa para ler 2 valores informados pelo usuário e se o segundo valor informado for neutro, deve ser lido um novo valor - ou seja, para o segundo valor não pode ser aceito o valor zero nem um valor negativo. O programa deve imprimir o resultado da divisão do primeiro valor lido pelo segundo valor lido.
 
@@ -210,7 +227,9 @@ public class Main {
     }
 }
 
-### 8 - Cansar de Digitar
+
+
+8 - Cansar de Digitar
 Pergunta:
 Faça um programa que leia 10 valores informados pelo usuário, calcule, exiba os números informados e escreva a média aritmética desses valores lidos.
 
@@ -238,7 +257,9 @@ public class Main {
     }
 }
 
-### 9 - Parabéns
+
+
+9 - Parabéns
 Pergunta:
 Escreva um programa para ler as notas das 4 avaliações de um aluno no semestre, calcular e escrever a média do semestre e a seguinte mensagem: PARABÉNS! Você foi aprovado! somente se o aluno foi aprovado (considere 6.0 a média mínima para aprovação e 4 notas informadas).
 
@@ -267,7 +288,9 @@ public class Main {
     }
 }
 
-### 10 - BOOOOMMM
+
+
+10 - BOOOOMMM
 Pergunta:
 Crie uma bomba relógio (usando somente código - para deixar claro!) cuja contagem regressiva vá de 30 a 0. Escreva a contagem em tela e no final da repetição escreva "EXPLOSÃO".
 
@@ -294,7 +317,9 @@ public class Main {
     }
 }
 
-### 12 - De quanto até quanto?
+
+
+12 - De quanto até quanto?
 Pergunta:
 Faça um algoritmo que calcule e escreva a média aritmética dos dois números inteiros informados pelo usuário e todos os números inteiros entre eles. Considere que o primeiro sempre será menor que o segundo.
 
@@ -324,7 +349,9 @@ public class Main {
     }
 }
 
-### 13 - Passou no Teste?
+
+
+13 - Passou no Teste?
 Pergunta:
 Escreva um programa para ler 6 notas de um aluno, calcular e imprimir a média final. Considere que a nota de aprovação é 6,5. Logo após escrever a mensagem "Calcular a média de outro aluno Sim/Não?" e solicitar uma resposta. Se a resposta for "S", o programa deve ser executado novamente, caso contrário deve ser encerrado exibindo a quantidade de alunos aprovados.
 
@@ -368,7 +395,8 @@ public class Main {
 }
 
 
-### 14 - Uma Brincadeira Sobre Alturas
+
+14 - Uma Brincadeira Sobre Alturas
 Pergunta:
 Anacleto tem 1,50 metro e cresce 2 centímetros por ano, enquanto Felisberto tem 1,10 metro e cresce 3 centímetros por ano. Construa um algoritmo que calcule e imprima quantos anos serão necessários para que Felisberto seja maior que Anacleto.
 
